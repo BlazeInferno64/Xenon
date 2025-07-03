@@ -1,4 +1,4 @@
-# Xenon
+# NeuroX
 A powerful discord bot made using JavaScript 
 
-> Coming Soon
+> Coming Soon project is under development 
